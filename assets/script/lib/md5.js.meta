@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "javascript",
+  "imported": true,
+  "uuid": "fc476a87-f895-4d03-80b6-a776e49cd689",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Lib/md5.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}

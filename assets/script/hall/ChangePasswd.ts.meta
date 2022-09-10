@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "846e0bbf-52bf-4c80-825f-1c77ab7339c6",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Hall/ChangePasswd.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "disable-packages": {
+    "/Users/steve/cccFrame/extensions/simple-1635269982660": {
+      "name": "hello-world",
+      "time": 1635346423565
+    },
+    "/Users/steve/cccFrame/extensions/test": {
+      "name": "test",
+      "time": 1635437391550
+    },
+    "/Users/steve/cccFrame/extensions/simple-1635346463458": {
+      "name": "hello-world",
+      "time": 1635437393171
+    },
+    "/Users/steve/cccFrame/extensions/vue": {
+      "name": "vue",
+      "time": 1635578576354
+    }
+  }
+}

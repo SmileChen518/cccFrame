@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "80f8b3bd-8680-4052-8982-b17c74e8c20e",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Mgr/FuncMgr.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}

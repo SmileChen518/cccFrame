@@ -1,0 +1,55 @@
+{
+    "package_version": 2,
+    "version": "1.0.0",
+    "name": "excel_vue3",
+    "description": "i18n:excel_vue3.description",
+    "main": "./dist/main.js",
+    "dependencies": {
+        "vue": "^3.1.4",
+        "fs-extra": "^10.0.0",
+        "chokidar": "~2.0.2",
+        "node-xlsx": "~0.11.2",
+        "json-beautifully": "^1.0.3",
+        "uglify-js": "~3.3.14"
+    },
+    "devDependencies": {
+        "@types/node": "^16.0.1",
+        "@types/fs-extra": "^9.0.5",
+        "typescript": "^4.3.4"
+    },
+    "panels": {
+        "default": {
+            "title": "excel_vue3 Default Panel",
+            "type": "dockable",
+            "main": "dist/panels/default/script",
+            "size": {
+                "width": 500,
+                "height": 800,
+                "min-height": 200,
+                "min-width": 500
+            }
+        }
+    },
+    "contributions": {
+        "menu": [
+            {
+                "path": "i18n:menu.panel",
+                "label": "excel_vue3",
+                "message": "open-panel"
+            }
+        ],
+        "messages": {
+            "open-panel": {
+                "methods": [
+                    "open_panel"
+                ]
+            }
+        }
+    },
+    "author": "yechen",
+    "editor": ">=3.3.2",
+    "scripts": {
+        "build": "tsc -b",
+        "watch": "tsc -w"
+    }
+}

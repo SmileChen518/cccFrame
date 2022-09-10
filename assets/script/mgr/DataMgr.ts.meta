@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f1e2b4c6-2707-4ce6-bf0f-3f0f28d16404",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Mgr/DataMgr.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}
